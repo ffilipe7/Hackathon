@@ -1,2 +1,0 @@
-# Hackathon
-Projeto HACKATHON UNITINS 2023-10-19
